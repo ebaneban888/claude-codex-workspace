@@ -1,0 +1,13 @@
+# 临时输出文件
+*.err
+*.out
+*_status.json
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
